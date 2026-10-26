@@ -1,0 +1,21 @@
+# Системные файлы macOS
+.DS_Store
+
+# Настройки PyCharm / WebStorm (IntelliJ)
+.idea/
+
+# Настройки Visual Studio Code
+.vscode/
+
+# Виртуальное окружение Python (если PyCharm его создал)
+.venv/
+venv/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Переменные окружения (если будут в будущем)
+.env
+.env.*
