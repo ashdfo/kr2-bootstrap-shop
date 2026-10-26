@@ -18,3 +18,6 @@
 - Bootstrap 5
 - CSS
 - Git
+
+## Статус
+Проект инициализирован на Bootstrap 5
